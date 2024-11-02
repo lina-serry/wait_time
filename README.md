@@ -1,1 +1,1 @@
-# wait_time
+# Predict wait time at merchant
